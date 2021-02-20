@@ -1,0 +1,9 @@
+2021-02-19 16:03:18,480-INFO: Namespace(alpha=1, block=1, dataset='load_synthetic', log_dir='', num_feature=1000, num_participants=10, num_pc=2, num_samples=1000, only_time='False', output_pkl='False')
+2021-02-19 16:03:18,724-INFO: StandalonePCA time 0.15199708938598633
+2021-02-19 16:03:18,725-INFO: StandalonePCA explained var ratio [0.61331611 0.14865006] 
+2021-02-19 16:03:25,042-INFO: Simulation Start!
+2021-02-19 16:04:13,053-INFO: Generate orthogonal matrix 1000 done. Using 0.25200366973876953 seconds.
+2021-02-19 16:04:13,053-INFO: Generate orthogonal matrix 10000 done. Using 47.4684202671051 seconds.
+2021-02-19 16:04:54,079-INFO: Apply distortion done. Using 4.10226800441742 seconds.
+2021-02-19 16:04:54,308-INFO: SVD done. Using 0.22441649436950684 seconds.
+2021-02-19 16:04:54,311-INFO: Truncated FedSVD explained var ratio [0.61321436 0.14898127] 
